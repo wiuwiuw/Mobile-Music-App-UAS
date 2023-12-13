@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429944027179",
+    "project_id": "music-kuy-app",
+    "storage_bucket": "music-kuy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429944027179:android:59b7ffd13894780614526e",
+        "android_client_info": {
+          "package_name": "com.example.musickuy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAER-olDsiZwyQp-z3ssMNs0Rg0A2izAhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
